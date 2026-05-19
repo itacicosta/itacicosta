@@ -1,11 +1,11 @@
-<h1>👋 &nbsp;Hey, I'm Itaci Costa, a passionate Full Stack Engineer!</h1>
+<h1>👋 &nbsp;Olá, eu sou Itaci Costa, um desenvolvedor Full Stack apaixonado por tecnologia!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/itaci-costa-neto-5b82b93b4/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/><
 <a href="mailto:itacicostan@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre Mim</h2>
 
 Sou um engenheiro de software com foco em desenvolvimento full stack, apaixonado por construir soluções escaláveis, modernas e bem arquitetadas. Já trabalhei em projetos de alto impacto no Brasil, Reino Unido e Estados Unidos, utilizando tecnologias como TypeScript, React, React Native, Next.js, Node.js, Docker, PostgreSQL e muito mais.
 
@@ -13,7 +13,7 @@ Sou completamente apaixonado por programação e tecnologia. Estou sempre estuda
 
 Grande parte desses projetos será publicada no meu portfólio e no GitHub, mostrando minha evolução constante, minhas ideias e tudo que venho desenvolvendo ao longo da minha jornada como programador.
 
-<h2> 📚 &nbsp;What will you find here?</h2>
+<h2> 📚 &nbsp; O que você encontrará aqui??</h2>
 
 Este GitHub representa muito mais do que apenas projetos e linhas de código. Aqui você encontrará minha evolução como desenvolvedor, meus estudos, experiências práticas e minha forma de enxergar tecnologia e desenvolvimento de software.
 
