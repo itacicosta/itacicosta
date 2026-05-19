@@ -7,7 +7,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre Mim</h2>
 
-Sou um engenheiro de software com foco em desenvolvimento full stack, apaixonado por construir soluções escaláveis, modernas e bem arquitetadas. Já trabalhei em projetos de alto impacto no Brasil, Reino Unido e Estados Unidos, utilizando tecnologias como TypeScript, React, React Native, Next.js, Node.js, Docker, PostgreSQL e muito mais.
+Sou um engenheiro de software com foco em desenvolvimento full stack, apaixonado por construir soluções escaláveis, modernas e bem arquitetadas. Já trabalhei em projetos reais, utilizando tecnologias como TypeScript, React, React Native, Next.js, Node.js, Docker,Java, Python, PostgreSQL e muito mais.
 
 Sou completamente apaixonado por programação e tecnologia. Estou sempre estudando, aprendendo coisas novas e buscando evoluir todos os dias, tanto como desenvolvedor quanto como pessoa. Atualmente ainda estou na faculdade, mas já venho realizando diversos cursos práticos com projetos reais, colocando a mão no código diariamente e construindo experiências que vão além da sala de aula.
 
