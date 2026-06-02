@@ -1,35 +1,36 @@
-<h1>👋 &nbsp;Olá, eu sou Itaci Costa, um desenvolvedor Full Stack apaixonado por tecnologia!</h1>
+<h1>👋 &nbsp; Hello, I'm Itaci Costa, a passionate Full Stack Software Developer who loves turning ideas into scalable, modern, and high-quality software solutions.
+</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/itaci-costa-neto-5b82b93b4/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/><
 <a href="mailto:itacicostan@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre Mim</h2>
+<h2> 👨🏻‍💻 &nbsp;## 👨‍💻 About Me</h2>
 
-Sou um engenheiro de software com foco em desenvolvimento full stack, apaixonado por construir soluções escaláveis, modernas e bem arquitetadas. Já trabalhei em projetos reais, utilizando tecnologias como TypeScript, React, React Native, Next.js, Node.js, Docker,Java, Python, PostgreSQL e muito mais.
+I am a Software Engineer focused on Full Stack Development, passionate about building scalable, modern, and well-architected solutions. I have worked on real-world projects using technologies such as TypeScript, React, React Native, Next.js, Node.js, Docker, Java, Python, PostgreSQL, and many others.
 
-Sou completamente apaixonado por programação e tecnologia. Estou sempre estudando, aprendendo coisas novas e buscando evoluir todos os dias, tanto como desenvolvedor quanto como pessoa. Atualmente ainda estou na faculdade, mas já venho realizando diversos cursos práticos com projetos reais, colocando a mão no código diariamente e construindo experiências que vão além da sala de aula.
+I am deeply passionate about programming and technology. I am constantly learning, exploring new technologies, and striving to improve every day, both as a developer and as a person. Although I am currently pursuing my degree, I have already completed several hands-on courses involving real-world projects, writing code daily and gaining practical experience that goes far beyond the classroom.
 
-Grande parte desses projetos será publicada no meu portfólio e no GitHub, mostrando minha evolução constante, minhas ideias e tudo que venho desenvolvendo ao longo da minha jornada como programador.
+Many of these projects will be published on my portfolio and GitHub, showcasing my continuous growth, my ideas, and everything I have been building throughout my journey as a software developer.
 
-<h2> 📚 &nbsp; O que você encontrará aqui??</h2>
+<h2> 📚 &nbsp; ## 🚀 What You'll Find Here</h2>
 
-Este GitHub representa muito mais do que apenas projetos e linhas de código. Aqui você encontrará minha evolução como desenvolvedor, meus estudos, experiências práticas e minha forma de enxergar tecnologia e desenvolvimento de software.
+This GitHub represents much more than just projects and lines of code. Here, you'll find my journey as a software developer, including my studies, hands-on experience, and the way I approach technology and software development.
 
-Ao longo dos repositórios, compartilho projetos reais, aplicações completas, desafios técnicos, experimentos, estudos e implementações utilizando boas práticas modernas de desenvolvimento, sempre buscando escrever códigos limpos, organizados, escaláveis e com propósito.
+Throughout these repositories, I share real-world projects, complete applications, technical challenges, experiments, studies, and implementations built using modern development practices. My goal is always to write clean, maintainable, scalable, and purposeful code.
 
-Aqui você também vai encontrar:
+Here you'll also find:
 
-• Projetos práticos construídos com tecnologias modernas
-• Aplicações full stack com foco em performance e escalabilidade
-• Arquitetura limpa e boas práticas de desenvolvimento
-• Estudos, testes, experimentos e evolução constante
-• Projetos que fazem parte da minha jornada profissional e acadêmica
+- Practical projects built with modern technologies
+- Full Stack applications focused on performance and scalability
+- Clean Architecture and software engineering best practices
+- Studies, experiments, tests, and continuous learning
+- Projects that are part of my professional and academic journey
 
-Atualmente sigo estudando diariamente, desenvolvendo projetos reais e aprofundando meus conhecimentos cada vez mais. Grande parte dessa evolução será documentada aqui no GitHub e no meu portfólio.
+I am currently dedicated to continuous learning, building real-world projects, and deepening my knowledge every day. A significant part of this growth is documented here on GitHub and through my portfolio.
 
-Se quiser trocar uma ideia, colaborar em algum projeto ou apenas conversar sobre tecnologia, fique à vontade para entrar em contato comigo. Estou sempre aberto a novas conexões, oportunidades e bons desafios.
+If you'd like to connect, collaborate on a project, or simply have a conversation about technology, feel free to reach out. I'm always open to new opportunities, meaningful connections, and knowledge sharing.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
