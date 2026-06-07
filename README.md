@@ -6,7 +6,7 @@
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;## 👨‍💻 About Me</h2>
+<h2> &nbsp;## 👨‍💻 About Me</h2>
 
 I am a Software Engineer focused on Full Stack Development, passionate about building scalable, modern, and well-architected solutions. I have worked on real-world projects using technologies such as TypeScript, React, React Native, Next.js, Node.js, Docker, Java, Python, PostgreSQL, and many others.
 
