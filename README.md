@@ -34,8 +34,8 @@ If you'd like to connect, collaborate on a project, or simply have a conversatio
 
 <h2> &nbsp;## 👨‍💻 Language </h2>
 
-Portuguese: Native
-English: Intermediate
+Portuguese: Native,
+English: Advanced
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
