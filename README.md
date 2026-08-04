@@ -56,9 +56,9 @@ English: Advanced
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Go]
+![Go]()
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Java]
-![Python]
-![PHP]
-![C#]
+![Java]()
+![Python]()
+![PHP]()
+![C#]()
