@@ -8,7 +8,7 @@
 
 <h2> &nbsp;## 👨‍💻 About Me</h2>
 
-I am a Software Engineer focused on Full Stack Development, passionate about building scalable, modern, and well-architected solutions. I have worked on real-world projects using technologies such as TypeScript, React, React Native, Next.js, Node.js, Docker, Java, Python, PostgreSQL, and many others.
+I am a Software Engineer focused on Full Stack Development, passionate about building scalable, modern, and well-architected solutions. I have worked on real-world projects using technologies such as TypeScript, React, React Native, Next.js, Node.js, Docker, Java, Python, PostgreSQL, Go, C#, PHP and many others.
 
 I am deeply passionate about programming and technology. I am constantly learning, exploring new technologies, and striving to improve every day, both as a developer and as a person. Although I am currently pursuing my degree, I have already completed several hands-on courses involving real-world projects, writing code daily and gaining practical experience that goes far beyond the classroom.
 
@@ -31,6 +31,12 @@ Here you'll also find:
 I am currently dedicated to continuous learning, building real-world projects, and deepening my knowledge every day. A significant part of this growth is documented here on GitHub and through my portfolio.
 
 If you'd like to connect, collaborate on a project, or simply have a conversation about technology, feel free to reach out. I'm always open to new opportunities, meaningful connections, and knowledge sharing.
+
+<h2> &nbsp;## 👨‍💻 Language </h2>
+
+Portuguese: Native
+English: Intermediate
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
