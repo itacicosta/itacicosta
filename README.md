@@ -32,7 +32,7 @@ I am currently dedicated to continuous learning, building real-world projects, a
 
 If you'd like to connect, collaborate on a project, or simply have a conversation about technology, feel free to reach out. I'm always open to new opportunities, meaningful connections, and knowledge sharing.
 
-<h2> &nbsp;## 👨‍💻 Language </h2>
+<h2> &nbsp;##  Language </h2>
 
 Portuguese: Native,
 English: Advanced
