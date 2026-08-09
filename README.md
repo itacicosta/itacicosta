@@ -37,7 +37,6 @@ If you'd like to connect, collaborate on a project, or simply have a conversatio
 Portuguese: Native,
 English: Advanced
 
-
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
@@ -57,5 +56,4 @@ English: Advanced
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
