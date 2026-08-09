@@ -56,7 +56,7 @@ English: Advanced
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
