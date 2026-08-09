@@ -59,5 +59,5 @@ English: Advanced
 ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
